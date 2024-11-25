@@ -9,16 +9,17 @@ export const ImageTrail = () => {
       images={[
       "/image/1.jpg",
       "/image/2.PNG",
-        "/image/3.jpg",
-        "/image/4.jpg",
-        "/image/5.jpg",
-        "/image/6.jpg",
-        "/image/7.jpg",
-        "/image/8.jpg",
-        "/image/9.jpg",
-        "/image/10.jpg",
-        "/image/11.jpg",
-        "/image/12.jpg",
+        "/image/3.jpeg",
+        "/image/4.jpeg",
+        "/image/5.jpeg",
+        "/image/6.jpeg",
+        "/image/7.jpeg",
+        "/image/8.jpeg",
+        "/image/9.jpeg",
+        "/image/10.jpeg",
+        "/image/11.jpeg",
+        "/image/12.jpeg",
+
       ]}
     >
       <section className="img-trace">
